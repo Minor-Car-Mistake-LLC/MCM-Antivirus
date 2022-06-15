@@ -4,7 +4,7 @@ joke antivirus written in basic
 
 how to run the file\
 step 1\
-download https://github.com/AppleWin/AppleWin/releases/tag/v1.30.10.0 \
+download any apple 2 emulator (https://github.com/AppleWin/AppleWin/releases/tag/v1.30.10.0) \
 step 2\
 download the .dsk file\
 step 3\
