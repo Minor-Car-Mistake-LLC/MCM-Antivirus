@@ -12,4 +12,4 @@ open in apple 2 emulator\
 step 4\
 run\
 step 5\
-4 reference
+5 reference
